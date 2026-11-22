@@ -4,22 +4,22 @@ Tick as you go. Busy week? Shrink the session, don't skip the phase.
 
 ## Days 1–2: The lab exists
 
-- [ ] Python 3.11+ runs (`python3 --version`)
-- [ ] Git runs and identity is set
-- [ ] `ai-lab` repo on GitHub, this starter pack committed and pushed
-- [ ] You can open the repo on github.com and see the README
+- [x] Python 3.11+ runs (`python3 --version`)
+- [x] Git runs and identity is set
+- [x] `ai-lab` repo on GitHub, this starter pack committed and pushed
+- [x] You can open the repo on github.com and see the README
 
 ## Days 3–4: A model on your machine
 
-- [ ] Ollama installed (ollama.com → Download for Mac), `ollama --version` works
-- [ ] A small model pulled and chatting: `ollama run llama3.2:3b` (try Qwen too: `ollama run qwen2.5:3b`)
-- [ ] From Python (inside `.venv`), chat with the local model via its OpenAI-compatible API at `http://localhost:11434/v1`
+- [x] Ollama installed (ollama.com → Download for Mac), `ollama --version` works
+- [x] A small model pulled and chatting: `ollama run llama3.2:3b` (try Qwen too: `ollama run qwen2.5:3b`)
+- [x] From Python (inside `.venv`), chat with the local model via its OpenAI-compatible API at `http://localhost:11434/v1`
 
 ## Days 5–7: First real script
 
-- [ ] `experiments/001-file-summariser/` exists with a README
-- [ ] Script reads a text file and prints a summary using the local model
-- [ ] Used it on a **real** document (class notes, shop FAQ, anything real)
+- [x] `experiments/001-file-summariser/` exists with a README
+- [x] Script reads a text file and prints a summary using the local model
+- [x] Used it on a **real** document (class notes, shop FAQ, anything real)
 - [ ] Committed and pushed
 
 ## Days 8–10: Make output usable
