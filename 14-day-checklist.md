@@ -20,7 +20,7 @@ Tick as you go. Busy week? Shrink the session, don't skip the phase.
 - [x] `experiments/001-file-summariser/` exists with a README
 - [x] Script reads a text file and prints a summary using the local model
 - [x] Used it on a **real** document (class notes, shop FAQ, anything real)
-- [ ] Committed and pushed
+- [x] Committed and pushed
 
 ## Days 8–10: Make output usable
 
